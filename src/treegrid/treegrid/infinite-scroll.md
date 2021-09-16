@@ -130,7 +130,7 @@ export class AppComponent implements OnInit {
 
 {% endtab %}
 
-## Limitations for Virtualization
+## Limitations for Infinite Scroll
 
 * Due to the element height limitation in browsers, the maximum number of records loaded by the tree grid is limited due to the browser capability.
 * Initial loading rows total height must be greater than the viewport height.
